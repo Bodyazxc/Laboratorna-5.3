@@ -1,0 +1,3 @@
+﻿  UnitTest4.cpp
+C:\Users\Compik_2\source\repos\Laboratorna5.3\Laboratorna5.3\Laboratorna5.3.cpp(57,1): warning C4715: 's': not all control paths return a value
+  UnitTest4.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna5.3\x64\Debug\UnitTest4.dll
